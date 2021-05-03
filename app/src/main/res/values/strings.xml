@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="design_by_nishant_nagar">Design by Nishant Nagar</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="app_by_nishant_nagar">App by Nishant Nagar</string>
+    <string name="recovered_cases">Recovered Cases</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="state">State</string>
+    <string name="active">Active</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="text">Lite Mode</string>
+    <string name="news">News</string>
+    <string name="todo">TODO</string>
+    <string name="call_helpline">Call Helpline</string>
+</resources>
